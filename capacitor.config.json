@@ -1,5 +1,10 @@
 {
   "appId": "com.pdfusion.cyber",
   "appName": "PDFUSION",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "https://pdfusion9-cyber.github.io/pdfusion.github.io/",
+    "cleartext": false,
+    "allowNavigation": ["pdfusion9-cyber.github.io"]
+  }
 }
