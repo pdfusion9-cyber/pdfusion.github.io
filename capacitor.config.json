@@ -3,8 +3,7 @@
   "appName": "PDFUSION",
   "webDir": "www",
   "server": {
-    "url": "https://pdfusion9-cyber.github.io/pdfusion.github.io/",
-    "cleartext": false,
-    "allowNavigation": ["pdfusion9-cyber.github.io"]
+    "url": "https://pdfusion.edgeone.app",
+    "cleartext": true
   }
 }
